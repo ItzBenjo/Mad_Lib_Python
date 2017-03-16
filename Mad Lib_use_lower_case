@@ -1,5 +1,0 @@
-#this is going to say HELLO but in lower case letter
-str = "HELLO";
-print str.lower()
-
-    
